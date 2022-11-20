@@ -10,9 +10,9 @@
 ## Technologies and tools i use
 <div id="box" style="display:flex;flex-direction:row-reverse;">
          <div>
-   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25"/>
+   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25" display:"inline"/>
                                                                                                                                                      </div>                                                          <div>
-   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="25" width="25"/>
+   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="25" width="25" display:"inline"/>
    </div>
    <div>
    <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="25" width="25"/>
