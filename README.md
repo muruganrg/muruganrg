@@ -6,6 +6,5 @@
 - Good at developing responsive dynamic front end web application.
 - I'm always open to have a chit-chat with you :)
 - How to reach me: 
-
-<a href="https://www.linkedin.com/in/murugan-rg-097b641a2/">:iphone:</a>
+## Linkedin:<a href="https://www.linkedin.com/in/murugan-rg-097b641a2/">:iphone:</a>
 
