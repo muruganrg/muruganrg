@@ -6,5 +6,8 @@
 - Good at developing responsive dynamic front end web application.
 - I'm always open to have a chit-chat with you :)
 - How to reach me: 
+
+## Technologies and tools i use
+   https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
 #### Linkedin:<a href="https://www.linkedin.com/in/murugan-rg-097b641a2/">:iphone:</a>
 
