@@ -8,7 +8,7 @@
 - How to reach me: 
 
 ## Technologies and tools i use
-<div style="display:flex;flex-direction:column;padding:100px;">
+<div id="box" style="display:flex;flex-direction:row;">
          <div>
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25"/>
                                                                                                                                                      </div>                                                          <div>
@@ -27,4 +27,11 @@
 
    
 #### Linkedin:<a href="https://www.linkedin.com/in/murugan-rg-097b641a2/">:iphone:</a>
+
+<style>
+   #box{
+   display:flex;
+   flex-direction:row-reverse;
+   }
+   </style>
 
