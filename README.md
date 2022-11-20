@@ -8,7 +8,7 @@
 - How to reach me: 
 
 ## Technologies and tools i use
-   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50" height="50"/>
+   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="30" height="30"/>
    
 #### Linkedin:<a href="https://www.linkedin.com/in/murugan-rg-097b641a2/">:iphone:</a>
 
